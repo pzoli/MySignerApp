@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\Windows Kits\10\bin\10.0.16299.0\x64\signtool.exe" sign /f c:\Users\pzoli\source\repos\MySignerApp\MySignerApp\MySignerApp_TemporaryKey.pfx /p sysdata /a c:\Users\pzoli\source\repos\MySignerApp\SetupMySignerApp\Debug\SetupMySignerApp.msi
